@@ -1,4 +1,4 @@
-# datathon-2025-Africare
+# Datathon-2025-Africare
 
 ## Africare 🌍🏥
 Bridging the Health Information Gap in Rural Africa
