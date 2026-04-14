@@ -58,7 +58,7 @@ Phase 3: Full Voice-to-Text and Text-to-Voice accessibility.
 Phase 4: Offline mode will be activated.
 
 ## Link to app demo
-https://50e15b57-bf67-4b4d-9c77-6fb80c3a9ae6-00-3163ifda0441k.janeway.replit.dev/
+https://africare-project-pitch-s22dcwt4favxuupmza2h3j.streamlit.app/#hello-i-m-africare-ai
 
 ## Original Repo
-
+https://odk-tech.github.io/africare-project-pitch/
